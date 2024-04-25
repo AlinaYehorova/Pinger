@@ -1,6 +1,6 @@
 #!/bin/bash
 target_address="google.com"
-max_ping_time_ms=10
+max_ping_time_ms=100
 max_failures=3
 failures=0
 
